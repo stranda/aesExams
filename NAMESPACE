@@ -1,3 +1,15 @@
 export(exams2brightspace)
 export(prepD2L_upload)
 export(obfuscate_graphics)
+export(createGradeUpload)
+export(createGradeFeedback)
+export(createGradedEmail)
+export(createQuestionEmails)
+export(grade.mchoice,grade.number)
+export(gradeStudents)
+export(studentAns)
+export(string2num)
+export(makeAnsSheet)
+export(expandCloze)
+
+
